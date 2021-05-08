@@ -1,0 +1,1 @@
+I used Verilog to explore the Register file and Single cycle datapath for Register type instruction
