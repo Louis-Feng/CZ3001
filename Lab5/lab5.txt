@@ -1,0 +1,1 @@
+I wrote basic CUDA programs made use of GPU to solve problem based on parallelism using multi-threading to practice programming of GPU using CUDA C. 
