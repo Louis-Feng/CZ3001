@@ -1,0 +1,1 @@
+I used Verilog to  understand the working of the 5-stage pipelined datapath and simulate the CBZ and B instructions along with the previous R-type and D-type instructions.
