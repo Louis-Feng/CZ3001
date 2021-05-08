@@ -1,0 +1,1 @@
+I created a four-stage pipelined CPU for execution of register (R) type instructions to understand the pipelining of CPU instructions
