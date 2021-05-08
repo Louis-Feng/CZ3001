@@ -1,0 +1,2 @@
+I implemented a five-stage pipelined CPU architecture including data memory to incorporate D-type instructions (STUR and LDUR). I also simulated and analyzed the functionality of
+the five stage pipeline along with its area and time complexity.
